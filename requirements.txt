@@ -2,5 +2,3 @@ streamlit
 pandas
 numpy
 scikit-learn
-json
-re
