@@ -1,4 +1,6 @@
-streamlit
-pandas
-numpy
-scikit-learn
+pandas==2.0.0
+pingouin==0.5.5
+scipy==1.10.0
+statsmodels==0.14.2
+scikit-posthocs==0.9.0
+usaddress==0.5.10
