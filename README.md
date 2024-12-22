@@ -23,25 +23,28 @@ This book is a comprehensive guide to mastering data analysis, covering both tec
 
 🚀 Getting Started
 
-    Clone the Repository
+### Clone the Repository:
 
+```
 git clone https://github.com/mona-kay/effective-data-analysis.git
 cd effective-data-analysis
+```
 
-Set Up Your Environment
+### Set Up Your Environment
 
-    Ensure you have Python installed (3.12 recommended).
-    Install required Python packages:
+Ensure you have Python installed (3.12 recommended).
+Install required Python packages:
 
-        pip install -r requirements.txt
+```
+pip install -r requirements.txt
+```
+Explore the Folders
+    Navigate to datasets/ to load the sample datasets.
+    Open the examples/ folder for chapter-specific scripts.
+    Complete the exercises in exercises/.
 
-    Explore the Folders
-        Navigate to datasets/ to load the sample datasets.
-        Open the examples/ folder for chapter-specific scripts.
-        Complete the exercises in exercises/.
-
-    Run Examples
-        Follow the instructions in the book to execute the code examples and explore the results.
+Run Examples
+    Follow the instructions in the book to execute the code examples and explore the results.
 
 📬 Contact
 
